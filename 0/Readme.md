@@ -39,7 +39,7 @@ Les librairies du data scientist|engineer|analyst
 
 # Semaine 3
 
-query and storate with database
+query and store data with database
 - SQL
 - NoSQL
 
