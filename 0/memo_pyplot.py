@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 #   The plot functions that are used most frequently
 #   and that you need to know.
 #
-#   try it: python memo_pyplot.py
+#   try it> python memo_pyplot.py
 
 
 # Scatter plot
