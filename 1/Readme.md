@@ -4,7 +4,7 @@
 
 Lecture essentielle : https://pandas.pydata.org/docs/user_guide/10min.html
 
-Tout au long de se brief prenez des notes, afin de présenter une veille + demo/résultats, en fin de journée, à cross-call Marseille/Nice
+Tout au long de ce brief prenez des notes, afin de présenter une veille + demo/résultats, en fin de journée, pour un cross-call avec Marseille/Nice ;)
 
 **Entrainement:**
 
