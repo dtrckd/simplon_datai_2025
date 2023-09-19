@@ -8,12 +8,12 @@ Tout au long de se brief prenez des notes, afin de présenter une veille + demo/
 
 **Entrainement:**
 
-Avec numpy vous avez decouvert les array(np.ndarray?) qui est LE principa type d'objet avec lequel on travaille avec numpy.
-Pandas va nous apporter deux nouveaux type (qui encapsule les aray numpy, en offrant de nombreuses fonctionalité et utilitaires au array):
+Avec numpy vous avez découvert les array (np.ndarray?) qui est LE principal type d'objet avec lequel on travaille avec numpy.
+Pandas va nous apporter deux nouveaux types (qui encapsule les array numpy, en nous offrant de nombreuses fonctionnalités et utilitaires au array):
 - pd.DataFrame?
 - pd.Series?
 
-Voici un facon de créer une DataFrame à partir d'un dictionnaire python:
+Voici un façon de créer une DataFrame à partir d'un dictionnaire python:
 ```
 df = pd.DataFrame({
     "colonne a": [1, 2, 3],
@@ -23,7 +23,7 @@ df = pd.DataFrame({
 ```
 
 
-Tester cet objet, acceder au collone. Iterer l'objet. Afficher le. Récupérer le tableau numpy. Rajouter une nouvelle colone. Renommer toues le collone mettant les initial en majuscule (str.title?)
+Tester cet objet, accéder au colonne. Itérer l'objet. Afficher le. Récupérer le tableau numpy. Rajouter une nouvelle colonne. Renommer toues le colonne mettant les initial en majuscule (str.title?)
 
 ---
 
