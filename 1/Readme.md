@@ -1,4 +1,4 @@
-# Brief Pandas.
+# Brief Pandas - Analyse de données 
 
 ---
 
@@ -35,6 +35,14 @@ Les données sont sur le site du gouvernement sur le lien suivant : https://www.
 
 Pour vous faciliter la vie, ils ont réduit les données dans un premier tableau que vous pouvez analyser et qui comprend des données du covid en France, et par sexe.
 (cf `reduced_covid_sexe.csv` + `metadata_covid_sexe.csv`)
+
+ps: use the paramaters `encoding="latin-1"` to solve the encoding error you can have when loading the metadata file !
+ps2: Les données "sexe sont encodé comme suit:
+```
+0: femmes + hommes                                                                                                                                                                                      
+1: hommes                                                                                                                                                                                                  
+2: femmes
+```
 
 A partir des données fournie, vous devez faire un analyse et synthèse des données. Pour chacun de vos résultats, le code associé doit être fourni (pour prouver votre réponse/analyse).
 Voici ce qu'ils cherchent à savoir :
