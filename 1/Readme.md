@@ -4,7 +4,7 @@
 
 Lecture essentielle : https://pandas.pydata.org/docs/user_guide/10min.html
 
-Tout au long de se brief prenez des notes, afin de présenter une veille + demo/résultats, en fin de journée, à cross-call Marseille/Nice
+Tout au long de ce brief prenez des notes, afin de présenter une veille + demo/résultats, en fin de journée, pour un cross-call avec Marseille/Nice ;)
 
 **Entrainement:**
 
@@ -23,7 +23,7 @@ df = pd.DataFrame({
 ```
 
 
-Tester cet objet, accéder au colonne. Itérer l'objet. Afficher le. Récupérer le tableau numpy. Rajouter une nouvelle colonne. Renommer toues le colonne mettant les initial en majuscule (str.title?)
+Tester cet objet, accéder au colonne. Itérer l'objet. Afficher le. Récupérer le tableau numpy. Rajouter une nouvelle colonne. Renommer toutes les colonnes en mettant les initiales en majuscules (str.title?)
 
 ---
 
@@ -36,11 +36,14 @@ Les données sont sur le site du gouvernement sur le lien suivant : https://www.
 Pour vous faciliter la vie, ils ont réduit les données dans un premier tableau que vous pouvez analyser et qui comprend des données du covid en France, et par sexe.
 (cf `reduced_covid_sexe.csv` + `metadata_covid_sexe.csv`)
 
-ps: use the paramaters `encoding="latin-1"` to solve the encoding error you can have when loading the metadata file !
-ps2: Les données "sexe sont encodé comme suit:
+> use the paramaters `encoding="latin-1"` to solve the encoding error you can have when loading the metadata file !
+
+
+Les données "sexe" sont encodées comme suit:
+
 ```
-0: femmes + hommes                                                                                                                                                                                      
-1: hommes                                                                                                                                                                                                  
+0: femmes + hommes
+1: hommes
 2: femmes
 ```
 
