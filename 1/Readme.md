@@ -42,8 +42,8 @@ Pour vous faciliter la vie, ils ont réduit les données dans un premier tableau
 Les données "sexe" sont encodées comme suit:
 
 ```
-0: femmes + hommes                                                                                                                                                                                      
-1: hommes                                                                                                                                                                                                  
+0: femmes + hommes
+1: hommes
 2: femmes
 ```
 
