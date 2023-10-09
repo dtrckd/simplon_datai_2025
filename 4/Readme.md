@@ -7,7 +7,7 @@ Découvrir l'apprentissage non-supervisé au travers de l'algorithme K-means.
 
 ## Contexte
 
-L'apprentissage non-supervisé se présente comme une approche de l'apprentissage automatique qui permet de découvrir la structure sous-jacente des données en l'absence d'étiquetage, c'est à dire sans catégories ou classe connues en avance.
+L'apprentissage non-supervisé se présente comme une approche de l'apprentissage automatique qui permet de découvrir la structure sous-jacente des données en l'absence d'étiquetage, c'est à dire sans catégorie ou classe connues en avance.
 
 Afin de se familiariser avec cette approche et mieux l'appréhender pour l'utiliser dans des scénario plus complexes, les objectifs sont les suivants : 
 * Nous souhaitons comprendre le principe de cette technique et les scénarios d'utilisation.
