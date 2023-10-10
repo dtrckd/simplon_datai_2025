@@ -30,6 +30,7 @@ Question de veilles:
 
 - Run a clustering algorithm on the digits/mnist dataset to cluster the numbers.
 - Compute the different metrics for unsupervised learning and comment on them.
+- compre the results with two diffrerent vectorization approach : CountVectorizer and TfIDFVectorizer.
 - Visualize the clustering in a 2D dimensional space using dimensionality reduction techniques.
 
 ## Dive
