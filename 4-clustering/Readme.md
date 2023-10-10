@@ -26,6 +26,18 @@ Question de veilles:
 	* donner en une phrase l'intuition derrière ces mesures.
 * différence entre NMI et AMI ?
 
+## Explore 
+
+- Run a clustering algorithm on digits dataset digits/mnist dataset to cluster the numbers.
+- Compute the different metrics for unsupervised learning and comments on them.
+- Visualize the clustering in a 2D dimensional space using dimensionality reduction techniques.
+
+## Dive
+
+- Load and understand the **20 news groups** dataset.
+- Use clustering to find out the group of the document, but this time use train test split method to evaluate the results.
+- Compare the results of the clusetring with another model called LDA ? https://scikit-learn.org/stable/modules/decomposition.html#latentdirichletallocation
+- Compare your clustering models with a classic classification approach. Which one works better ? why ?
 
 
 ## Ressources
