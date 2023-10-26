@@ -1,4 +1,4 @@
-# NLC : The Natural Language Transcompiler
+# NLT : The Natural Language Transcompiler
 
 L'histoire de l'informatique est marquée par les compilateurs qui permettent de traduire un programme (code source) en un code machine (assembleur), ce dernier permettant l'exécution physique sur des ordinateurs.
 
