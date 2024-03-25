@@ -10,3 +10,5 @@ Clone me
 * [7/](7-embeddings)  scrap + semantique similarity
 * [8/](8-dl) Deep learning initiation
 * [9/](https://huggingface.co/learn/nlp-course/chapter1/1) Hugging face and Open LLM. 
+* [10/](10-scraping) Hugging face and Open LLM. 
+* [11/](11-rag) RAG. 
