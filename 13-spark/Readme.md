@@ -45,3 +45,8 @@ Proceed to section P7 of the course, which covers the use of Spark ML to run a l
 - **Evaluate the Model**: Use Spark's evaluation metrics to assess the performance of your model.
 
 By the end of this practical course, you will have a comprehensive understanding of Apache Spark, from setting up a cluster to running complex machine learning algorithms. This hands-on experience will equip you with the skills needed to tackle real-world big data challenges efficiently.
+
+#### Ressources
+
+- https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59
+- https://towardsdatascience.com/1-5-years-of-spark-knowledge-in-8-tips-f003c4743083
